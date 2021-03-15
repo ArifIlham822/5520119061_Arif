@@ -2,7 +2,6 @@
 @section('title', 'halaman home')
 @section('content')
 <div class="container">
-    <hr>
     <div>
       <a href="#"><h1 style ="color : black;">Valentine's  Day Gift <br>Giving Guide</h1></a>
       <br>
@@ -19,10 +18,10 @@
             For Those of Us <br>Without Plans on the Day of Love</h1>
         </a>
       <br>
-      <a href="#"><img src="{{ ('img/love.jpg') }}" width="150px" height="150px" >
+      <a href="#"><img src="{{ ('img/love.jpg') }}" width="150px" height="150px">
       <br>
         <p> Not all of us love the day of love. Sure, for some  <br>
-            it’s a day of mushy-gushy lovey-dovey <br>      
+            it’s a day of mushy-gushy lovey-dovey </br>      
             displays of affection. But…
        </p>
         <a href="#">see more...</a>
